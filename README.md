@@ -5,4 +5,4 @@ Central administrative center for the Webb Universe site. This project is within
 
 ## License
 
-This project has no license.
+MIT
